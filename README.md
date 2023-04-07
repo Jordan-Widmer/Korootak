@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋 Hey there! I'm Shockwave 🚀
 
-<!--
-**Korootak/Korootak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌞 Junior Software Developer By Day, 🌙 Dedicated Gamer By Night 🎮
 
-Here are some ideas to get you started:
+🌱 I'm always learning to improve my skills and knowledge. I truly believe that learning never stops, and I'm excited to grow as a developer and a person!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 Respectful and humble, I appreciate growth through collaboration. I enjoy working with others and believe that teamwork can lead to amazing results.
+
+### 🔧 Technologies & Tools
+
+```
+const skills = {
+  languages: ["JavaScript", "Python", "Java", "HTML", "CSS"],
+  tools: ["React", "Node.js", "Express", "MongoDB", "Git"],
+  methodologies: ["Agile", "Scrum"],
+};
+```
