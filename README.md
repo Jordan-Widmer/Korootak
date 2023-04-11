@@ -32,7 +32,7 @@ const skills = {
 ### 🌐 Find me on the web     
 • 🎉 Discord: Shockwave#7192    
 • 📷 Instagram: @ch.darlik_78   
-• 🌐 Linkdin: "Required Better Stats "  
+• 🌐 Linkdin: "Required Better Stats"  
 • 📫 Email: "Required Better Stats"   
 
 ## 🤝 Let's Connect!
