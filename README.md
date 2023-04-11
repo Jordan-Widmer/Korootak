@@ -32,8 +32,8 @@ const skills = {
 ### 🌐 Find me on the web     
 • 🎉 Discord: Shockwave#7192    
 • 📷 Instagram: @ch.darlik_78   
-• 🌐 Linkdin: https://www.linkedin.com/in/jordan-widmer-87655721b/    
-• 📫 Email: widmer.jordan@gmail.com   
+• 🌐 Linkdin: "Required Better Stats "  
+• 📫 Email: "Required Better Stats"   
 
 ## 🤝 Let's Connect!
 Feel free to reach out to me if you'd like to collaborate, have any questions, or just want to chat about gaming! I'm always open to meeting new people and exploring new opportunities. Let's level up together! 🎉🚀
