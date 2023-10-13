@@ -32,8 +32,8 @@ const compétences = {
 ### 🌐 Retrouvez-moi sur le web     
 • 🎉 Discord : Shockwave#7192    
 • 📷 Instagram : @ch.darlik_78   
-• 🌐 LinkedIn : "Statistiques meilleures requises"  
-• 📫 Email : "Statistiques meilleures requises"   
+• 🌐 LinkedIn : https://www.linkedin.com/in/jordan-widmer/
+• 📫 Email : widmer.jordan78@gmail.com  
 
 ## 🤝 Connectons-nous !
 N'hésitez pas à me contacter si vous souhaitez collaborer, avez des questions ou simplement discuter de jeux vidéo ! Je suis toujours ouvert à rencontrer de nouvelles personnes et à explorer de nouvelles opportunités. Montons de niveau ensemble ! 🎉🚀
