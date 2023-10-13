@@ -1,26 +1,26 @@
-# 👋 Hey there! I'm Shockwave 🚀
+# 👋 Salut ! Je suis Shockwave 🚀
 
-## 🌞 Junior Software Developer By Day, 🌙 Dedicated Gamer By Night 🎮
+## 🌞 Développeur Logiciel Junior le Jour, 🌙 Joueur Dévoué la Nuit 🎮
 
-🌱 I'm always learning to improve my skills and knowledge. I truly believe that learning never stops, and I'm excited to grow as a developer and a person!
+🌱 J'apprends toujours pour améliorer mes compétences et mes connaissances. Je crois vraiment que l'apprentissage ne s'arrête jamais, et je suis enthousiaste à l'idée de grandir en tant que développeur et en tant que personne !
 
-🤝 Respectful and humble, I appreciate growth through collaboration. I enjoy working with others and believe that teamwork can lead to amazing results.
+🤝 Respectueux et humble, j'apprécie la croissance par la collaboration. J'aime travailler avec les autres et je crois que le travail d'équipe peut conduire à d'incroyables résultats.
 
-### 🔧 Technologies & Tools
+### 🔧 Technologies & Outils
 
 ```
-const skills = {
+const compétences = {
   frontEnd: {
-    languages: ["HTML5 📄", "CSS3 🎨", "Sass 💅", "JavaScript ⚡"],
+    langages: ["HTML5 📄", "CSS3 🎨", "Sass 💅", "JavaScript ⚡"],
     frameworks: ["Vue.js 🖼️", "React.js ⚛️", "Tailwind 🌬️"],
   },
   backEnd: {
-    languages: ["Node.js 💚"],
+    langages: ["Node.js 💚"],
     frameworks: ["Express.js 🛤️"],
-    databases: ["MongoDB 🍃", "MySQL 🐬"],
+    bases de données: ["MongoDB 🍃", "MySQL 🐬"],
   },
-  toolsAndSkills: [
-    "UI Design 🎨",
+  outilsEtCompétences: [
+    "Design UI 🎨",
     "SEO 🚀",
     "Git 🌳",
     "GitHub 🐱‍💻",
@@ -29,11 +29,11 @@ const skills = {
 };
 ```
 
-### 🌐 Find me on the web     
-• 🎉 Discord: Shockwave#7192    
-• 📷 Instagram: @ch.darlik_78   
-• 🌐 Linkdin: "Required Better Stats"  
-• 📫 Email: "Required Better Stats"   
+### 🌐 Retrouvez-moi sur le web     
+• 🎉 Discord : Shockwave#7192    
+• 📷 Instagram : @ch.darlik_78   
+• 🌐 LinkedIn : "Statistiques meilleures requises"  
+• 📫 Email : "Statistiques meilleures requises"   
 
-## 🤝 Let's Connect!
-Feel free to reach out to me if you'd like to collaborate, have any questions, or just want to chat about gaming! I'm always open to meeting new people and exploring new opportunities. Let's level up together! 🎉🚀
+## 🤝 Connectons-nous !
+N'hésitez pas à me contacter si vous souhaitez collaborer, avez des questions ou simplement discuter de jeux vidéo ! Je suis toujours ouvert à rencontrer de nouvelles personnes et à explorer de nouvelles opportunités. Montons de niveau ensemble ! 🎉🚀
