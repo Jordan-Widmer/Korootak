@@ -32,7 +32,7 @@ const compétences = {
 ### 🌐 Retrouvez-moi sur le web     
 • 🎉 Discord : Shockwave#7192    
 • 📷 Instagram : @ch.darlik_78   
-• 🌐 LinkedIn : https://www.linkedin.com/in/jordan-widmer/
+• 🌐 LinkedIn : https://www.linkedin.com/in/jordan-widmer/   
 • 📫 Email : widmer.jordan78@gmail.com  
 
 ## 🤝 Connectons-nous !
